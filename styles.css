@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  box-sizing: border-box;
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: 400;
+  background-color: #eee;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+  font-weight: inherit;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 3em;
+  color: #333;
+}
