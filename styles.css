@@ -92,3 +92,13 @@ html {
   border-radius: 16px;
   border: none;
 }
+
+.eraser-button-on {
+  background-color: #3d3846;
+  color: #eee;
+}
+
+.eraser-button-on:hover {
+  background-color: #3d3846;
+  transform: scale(1.03);
+}
