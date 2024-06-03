@@ -10,4 +10,4 @@
 - Export images
 - Undo/Redo functionality
 
-[Live Link](https://rajesh-sv.github.io/odin-etch-a-sketch/)
+[Live Link](https://etch-a-sketch.rajesh-sv.dev/)
